@@ -1,0 +1,45 @@
+# Generated and compiled files
+*.pyc
+*.o
+*.exe
+
+# Build and packaged files
+__pycache__
+dist
+build
+egg-info
+
+# IDE and Editor files
+.vscode
+.idea
+
+# Checkpoint files
+.pth
+.ckpt
+.pt
+
+# Virtual environment files
+venv
+.env
+.gradio
+
+# Source code management files
+.svn
+.git
+
+# Graphical User Interface files
+.DS_Store
+Thumbs.db
+
+# Backup and temporary files
+*.bak
+*.tmp
+*.swp
+
+# Log files
+*.log
+*.csv
+*.cache
+
+# BentoML
+bentoML
