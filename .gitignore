@@ -20,8 +20,7 @@ egg-info
 
 # Virtual environment files
 venv
-.env
-.gradio
+env
 
 # Source code management files
 .svn
@@ -35,11 +34,9 @@ Thumbs.db
 *.bak
 *.tmp
 *.swp
-
-# Log files
 *.log
-*.csv
 *.cache
 
-# BentoML
+# BentoML, gradio
 bentoML
+.gradio
